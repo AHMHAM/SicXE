@@ -1,0 +1,707 @@
+# depslib dependency file v1.0
+1539595866 source:d:\user\aast\desktop\sic\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"scan.h"
+
+1539592663 d:\user\aast\desktop\sic\scan.h
+	<bits/stdc++.h>
+
+1539595752 source:d:\user\aast\desktop\sic\scan.cpp
+	<bits/stdc++.h>
+	<fstream>
+	"scan.h"
+
+1539856765 source:c:\users\a_l_s_o\desktop\sic project\sic 15-10-2018\scan.cpp
+	<bits/stdc++.h>
+	<fstream>
+	"scan.h"
+
+1539609464 c:\users\a_l_s_o\desktop\sic project\sic 15-10-2018\scan.h
+	<bits/stdc++.h>
+
+1539719285 source:c:\users\a_l_s_o\desktop\sic project\sic 15-10-2018\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"hex_inc.h"
+
+1539719492 source:c:\users\a_l_s_o\desktop\sic project\sic 15-10-2018\hex_inc.cpp
+	"hex_inc.h"
+
+1539719332 c:\users\a_l_s_o\desktop\sic project\sic 15-10-2018\hex_inc.h
+	<bits/stdc++.h>
+
+1539766666 source:d:\user\aast\desktop\sic-master\sic 15-10-2018\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"hex_inc.h"
+
+1539766164 d:\user\aast\desktop\sic-master\sic 15-10-2018\hex_inc.h
+	<bits/stdc++.h>
+
+1539687742 source:d:\user\aast\desktop\sic-master\sic 15-10-2018\scan.cpp
+	<bits/stdc++.h>
+	<fstream>
+	"scan.h"
+
+1539687742 d:\user\aast\desktop\sic-master\sic 15-10-2018\scan.h
+	<bits/stdc++.h>
+
+1539766522 source:d:\user\aast\desktop\sic-master\sic 15-10-2018\hex_inc.cpp
+	"hex_inc.h"
+
+1539766522 source:c:\users\a_l_s_o\desktop\sic 18-10-17\hex_inc.cpp
+	"hex_inc.h"
+
+1539853496 c:\users\a_l_s_o\desktop\sic 18-10-17\hex_inc.h
+	<string>
+	<algorithm>
+	<math.h>
+
+1539853337 source:c:\users\a_l_s_o\desktop\sic 18-10-17\instruction_find.cpp
+	"instruction_find.h"
+
+1539965672 source:c:\users\a_l_s_o\desktop\sic 18-10-17\main.cpp
+	<bits/stdc++.h>
+
+1539965686 source:c:\users\a_l_s_o\desktop\sic 18-10-17\scan.cpp
+	"hex_inc.h"
+	"instruction_find.h"
+	"currentline_divide_strings.h"
+
+1539909123 c:\users\a_l_s_o\desktop\sic 18-10-17\scan.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1539853402 c:\users\a_l_s_o\desktop\sic 18-10-17\instruction_find.h
+	<string>
+
+1539855222 source:c:\users\a_l_s_o\desktop\sic 18-10-17\file_creator.cpp
+	"File_Creator.h"
+
+1539855456 c:\users\a_l_s_o\desktop\sic 18-10-17\file_creator.h
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+
+1539912032 source:c:\users\a_l_s_o\desktop\sic 18-10-17\currentline_divide_strings.cpp
+	"currentline_divide_strings.h"
+
+1539908500 c:\users\a_l_s_o\desktop\sic 18-10-17\currentline_divide_strings.h
+	<string>
+
+1540147115 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-17\currentline_divide_strings.cpp
+	"currentline_divide_strings.h"
+
+1540144104 c:\users\a_l_s_o\desktop\sic project\sic 18-10-17\currentline_divide_strings.h
+	<string>
+
+1540145017 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-17\hex_inc.cpp
+	"hex_inc.h"
+
+1540144104 c:\users\a_l_s_o\desktop\sic project\sic 18-10-17\hex_inc.h
+	<string>
+	<algorithm>
+	<math.h>
+
+1539853337 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-17\instruction_find.cpp
+	"instruction_find.h"
+
+1539853402 c:\users\a_l_s_o\desktop\sic project\sic 18-10-17\instruction_find.h
+	<string>
+
+1540152991 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-17\scan.cpp
+	"scan.h"
+
+1540149116 c:\users\a_l_s_o\desktop\sic project\sic 18-10-17\scan.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"hex_inc.h"
+	"instruction_find.h"
+	"currentline_divide_strings.h"
+	"Chek_if_Dec.H"
+
+1540145064 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-17\main.cpp
+	<bits/stdc++.h>
+	"scan.h"
+
+1540150299 c:\users\a_l_s_o\desktop\sic project\sic 18-10-17\chek_if_dec.h
+	"instruction_find.h"
+
+1540150299 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-17\chek_if_dec.cpp
+	"Chek_if_Dec.H"
+
+1540153255 source:c:\users\main\desktop\7\my term\systems programming\sic 23-10-17\chek_if_dec.cpp
+	"Chek_if_Dec.H"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 23-10-17\chek_if_dec.h
+	"instruction_find.h"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 23-10-17\instruction_find.h
+	<string>
+
+1540153255 source:c:\users\main\desktop\7\my term\systems programming\sic 23-10-17\currentline_divide_strings.cpp
+	"currentline_divide_strings.h"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 23-10-17\currentline_divide_strings.h
+	<string>
+
+1540153255 source:c:\users\main\desktop\7\my term\systems programming\sic 23-10-17\hex_inc.cpp
+	"hex_inc.h"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 23-10-17\hex_inc.h
+	<string>
+	<algorithm>
+	<math.h>
+
+1540153255 source:c:\users\main\desktop\7\my term\systems programming\sic 23-10-17\instruction_find.cpp
+	"instruction_find.h"
+
+1540153255 source:c:\users\main\desktop\7\my term\systems programming\sic 23-10-17\main.cpp
+	<bits/stdc++.h>
+	"scan.h"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 23-10-17\scan.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"hex_inc.h"
+	"instruction_find.h"
+	"currentline_divide_strings.h"
+	"Chek_if_Dec.H"
+
+1540153255 source:c:\users\main\desktop\7\my term\systems programming\sic 23-10-17\scan.cpp
+	"scan.h"
+
+1540153255 source:c:\users\main\desktop\7\my term\systems programming\sic 22-10-17\chek_if_dec.cpp
+	"Chek_if_Dec.H"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 22-10-17\chek_if_dec.h
+	"instruction_find.h"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 22-10-17\instruction_find.h
+	<string>
+
+1540160104 source:c:\users\main\desktop\7\my term\systems programming\sic 22-10-17\currentline_divide_strings.cpp
+	"currentline_divide_strings.h"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 22-10-17\currentline_divide_strings.h
+	<string>
+
+1540153255 source:c:\users\main\desktop\7\my term\systems programming\sic 22-10-17\hex_inc.cpp
+	"hex_inc.h"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 22-10-17\hex_inc.h
+	<string>
+	<algorithm>
+	<math.h>
+
+1540173007 source:c:\users\main\desktop\7\my term\systems programming\sic 22-10-17\instruction_find.cpp
+	"instruction_find.h"
+
+1540165392 source:c:\users\main\desktop\7\my term\systems programming\sic 22-10-17\main.cpp
+	<bits/stdc++.h>
+	"scan.h"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 22-10-17\scan.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"hex_inc.h"
+	"instruction_find.h"
+	"currentline_divide_strings.h"
+	"Chek_if_Dec.H"
+
+1540182852 source:c:\users\main\desktop\7\my term\systems programming\sic 22-10-17\scan.cpp
+	"scan.h"
+
+1540205289 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\chek_if_dec.cpp
+	"Chek_if_Dec.H"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\chek_if_dec.h
+	"instruction_find.h"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\instruction_find.h
+	<string>
+
+1540160104 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\currentline_divide_strings.cpp
+	"currentline_divide_strings.h"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\currentline_divide_strings.h
+	<string>
+
+1540207360 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\hex_inc.cpp
+	"hex_inc.h"
+
+1540207001 c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\hex_inc.h
+	<string>
+	<algorithm>
+	<math.h>
+
+1540204903 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\instruction_find.cpp
+	"instruction_find.h"
+
+1540209404 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\main.cpp
+	<bits/stdc++.h>
+	"scan.h"
+
+1540209404 c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\scan.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"hex_inc.h"
+	"instruction_find.h"
+	"String _To_Opcode_Fit_8.h"
+	"currentline_divide_strings.h"
+	"Chek_if_Dec.H"
+
+1540207360 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\scan.cpp
+	"scan.h"
+
+1540207783 c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\string _to_opcode_fit_8.h
+	"hex_inc.h"
+	<string>
+
+1540209246 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22\string _to_opcode_fit_8.cpp
+	"String _To_Opcode_Fit_8.h"
+
+1540205289 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22 -after database lecture - copy\chek_if_dec.cpp
+	"Chek_if_Dec.H"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 18-10-22 -after database lecture - copy\chek_if_dec.h
+	"instruction_find.h"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 18-10-22 -after database lecture - copy\instruction_find.h
+	<string>
+
+1540160104 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22 -after database lecture - copy\currentline_divide_strings.cpp
+	"currentline_divide_strings.h"
+
+1540153255 c:\users\main\desktop\7\my term\systems programming\sic 18-10-22 -after database lecture - copy\currentline_divide_strings.h
+	<string>
+
+1540207360 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22 -after database lecture - copy\hex_inc.cpp
+	"hex_inc.h"
+
+1540207001 c:\users\main\desktop\7\my term\systems programming\sic 18-10-22 -after database lecture - copy\hex_inc.h
+	<string>
+	<algorithm>
+	<math.h>
+
+1540204903 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22 -after database lecture - copy\instruction_find.cpp
+	"instruction_find.h"
+
+1540209404 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22 -after database lecture - copy\main.cpp
+	<bits/stdc++.h>
+	"scan.h"
+
+1540209404 c:\users\main\desktop\7\my term\systems programming\sic 18-10-22 -after database lecture - copy\scan.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"hex_inc.h"
+	"instruction_find.h"
+	"String _To_Opcode_Fit_8.h"
+	"currentline_divide_strings.h"
+	"Chek_if_Dec.H"
+
+1540207783 c:\users\main\desktop\7\my term\systems programming\sic 18-10-22 -after database lecture - copy\string _to_opcode_fit_8.h
+	"hex_inc.h"
+	<string>
+
+1540209246 source:c:\users\main\desktop\7\my term\systems programming\sic 18-10-22 -after database lecture - copy\string _to_opcode_fit_8.cpp
+	"String _To_Opcode_Fit_8.h"
+
+1540247076 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\chek_if_dec.cpp
+	"Chek_if_Dec.H"
+
+1540217184 c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\chek_if_dec.h
+	"instruction_find.h"
+
+1540217184 c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\instruction_find.h
+	<string>
+
+1540217186 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\currentline_divide_strings.cpp
+	"currentline_divide_strings.h"
+
+1540217186 c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\currentline_divide_strings.h
+	<string>
+
+1540217188 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\hex_inc.cpp
+	"hex_inc.h"
+
+1540244777 c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\hex_inc.h
+	<string>
+	<algorithm>
+	<math.h>
+
+1540247111 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\instruction_find.cpp
+	"instruction_find.h"
+
+1540247192 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\main.cpp
+	<bits/stdc++.h>
+	"scan.h"
+
+1540250944 c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\scan.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"hex_inc_dec.h"
+	"instruction_find.h"
+	"String _To_Opcode_Fit_8.h"
+	"currentline_divide_strings.h"
+	"hex_indirect_addressing_changer.h"
+	"Chek_if_Dec.H"
+
+1540253954 c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\string _to_opcode_fit_8.h
+	"hex_inc_dec.h"
+	<string>
+
+1540253974 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\string _to_opcode_fit_8.cpp
+	"String _To_Opcode_Fit_8.h"
+
+1540255535 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\scan.cpp
+	"scan.h"
+
+1540251675 c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\hex_indirect_addressing_changer.h
+	<string>
+	"hex_inc_dec.h"
+
+1540247039 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\hex_indirect_addressing_changer.cpp
+	"hex_indirect_addressing_changer.h"
+
+1540250944 c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\hex_inc_dec.h
+	<string>
+	<algorithm>
+	<math.h>
+
+1540251658 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-22 -after database lecture\hex_inc_dec.cpp
+	"hex_inc_dec.h"
+
+1540247076 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\chek_if_dec.cpp
+	"Chek_if_Dec.H"
+
+1543392363 c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\chek_if_dec.h
+	<string>
+
+1543408431 c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\instruction_find.h
+	<string>
+	<iostream>
+	<cmath>
+	<vector>
+	<sstream>
+	"Chek_if_Dec.H"
+	"hex_inc_dec.h"
+	"String _To_Opcode_Fit_8.h"
+
+1540217186 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\currentline_divide_strings.cpp
+	"currentline_divide_strings.h"
+
+1540217186 c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\currentline_divide_strings.h
+	<string>
+
+1543431485 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\hex_inc_dec.cpp
+	"hex_inc_dec.h"
+
+1543430495 c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\hex_inc_dec.h
+	<string>
+	<iostream>
+	<algorithm>
+	<math.h>
+
+1540247039 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\hex_indirect_addressing_changer.cpp
+	"hex_indirect_addressing_changer.h"
+
+1540251675 c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\hex_indirect_addressing_changer.h
+	<string>
+	"hex_inc_dec.h"
+
+1543421370 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\instruction_find.cpp
+	"instruction_find.h"
+
+1543494411 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\scan.cpp
+	"scan.h"
+
+1543417924 c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\scan.h
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<vector>
+	"hex_inc_dec.h"
+	"instruction_find.h"
+	"String _To_Opcode_Fit_8.h"
+	"currentline_divide_strings.h"
+	"hex_indirect_addressing_changer.h"
+	"Obj_Code_Fix_Exced_6.h"
+	"Chek_if_Dec.H"
+	"Prog_Length.h"
+
+1540467609 c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\string _to_opcode_fit_8.h
+	"hex_inc_dec.h"
+	<string>
+	<iostream>
+
+1540467729 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\string _to_opcode_fit_8.cpp
+	"String _To_Opcode_Fit_8.h"
+
+1543492928 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\main.cpp
+	<bits/stdc++.h>
+	"scan.h"
+	"hex_inc_dec.h"
+
+1540461108 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\obj_code_fix_exced_6.cpp
+	"Obj_Code_Fix_Exced_6.h"
+
+1540461015 c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\obj_code_fix_exced_6.h
+	<string>
+	<vector>
+
+1540641244 c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\prog_length.h
+	<string>
+	<vector>
+	"hex_inc_dec.h"
+	"String _To_Opcode_Fit_8.h"
+	<iostream>
+
+1540646374 source:c:\users\a_l_s_o\desktop\sic project\sic 18-10-23 -final result\prog_length.cpp
+	"Prog_Length.h"
+
+1540247076 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\chek_if_dec.cpp
+	"Chek_if_Dec.H"
+
+1543392363 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\chek_if_dec.h
+	<string>
+
+1540217186 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\currentline_divide_strings.cpp
+	"currentline_divide_strings.h"
+
+1540217186 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\currentline_divide_strings.h
+	<string>
+
+1545110386 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\hex_inc_dec.cpp
+	"hex_inc_dec.h"
+	"hex_indirect_addressing_changer.h"
+
+1545100655 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\hex_inc_dec.h
+	<string>
+	<iostream>
+	<algorithm>
+	<math.h>
+
+1540247039 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\hex_indirect_addressing_changer.cpp
+	"hex_indirect_addressing_changer.h"
+
+1545100607 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\hex_indirect_addressing_changer.h
+	<string>
+	"hex_inc_dec.h"
+
+1545118019 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\instruction_find.cpp
+	"instruction_find.h"
+
+1545094790 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\instruction_find.h
+	<string>
+	<iostream>
+	<cmath>
+	<vector>
+	<sstream>
+	"Chek_if_Dec.H"
+	"hex_inc_dec.h"
+	"String _To_Opcode_Fit_8.h"
+
+1540467609 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\string _to_opcode_fit_8.h
+	"hex_inc_dec.h"
+	<string>
+	<iostream>
+
+1545112895 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\main.cpp
+	<bits/stdc++.h>
+	"scan.h"
+	"hex_inc_dec.h"
+	"Symbol_Table.h"
+	"Object_code_creator.h"
+
+1545112884 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\scan.h
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<vector>
+	"pass1.h"
+	"pass2.h"
+	"Literal_Adder_Loc_Counter.h"
+	"hex_inc_dec.h"
+	"instruction_find.h"
+	"String _To_Opcode_Fit_8.h"
+	"currentline_divide_strings.h"
+	"hex_indirect_addressing_changer.h"
+	"Obj_Code_Fix_Exced_6.h"
+	"Chek_if_Dec.H"
+	"Prog_Length.h"
+	"Symbol_Table.h"
+	"Literal_Table.h"
+
+1540461015 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\obj_code_fix_exced_6.h
+	<string>
+	<vector>
+
+1540641244 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\prog_length.h
+	<string>
+	<vector>
+	"hex_inc_dec.h"
+	"String _To_Opcode_Fit_8.h"
+	<iostream>
+
+1540461108 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\obj_code_fix_exced_6.cpp
+	"Obj_Code_Fix_Exced_6.h"
+
+1540646374 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\prog_length.cpp
+	"Prog_Length.h"
+
+1540467729 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\string _to_opcode_fit_8.cpp
+	"String _To_Opcode_Fit_8.h"
+
+1545038657 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\op_code_creator.cpp
+
+1545088888 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\expression_calculator.cpp
+	"Expression_Calculator.h"
+
+1545088880 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\expression_calculator.h
+	<string>
+	<vector>
+	"Is_Found_Functions.h"
+	"hex_inc_dec.h"
+	"instruction_find.h"
+	"Symbol_Table.h"
+
+1545117503 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\is_found_functions.h
+	<string>
+	<iostream>
+	<vector>
+	"Chek_if_Dec.H"
+	"Symbol_Table.h"
+	"Literal_Table.h"
+
+1545087399 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\pass1.h
+	<string>
+	<vector>
+	"currentline_divide_strings.h"
+	"Input_Data_In_Vector_Logic_Only.h"
+	"Extend_Logic_litera_or_equ_base.h"
+	"Symbol_Table.h"
+	"Literal_Table.h"
+
+1545088849 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\literal_adder_loc_counter.h
+	<string>
+	<vector>
+	"hex_inc_dec.h"
+	"instruction_find.h"
+	"Literal_Table.h"
+
+1545087517 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\input_data_in_vector_logic_only.h
+	<string>
+	<vector>
+	"Set_Data_In_Vector_Physically.h"
+	"Chek_if_Dec.H"
+	"String _To_Opcode_Fit_8.h"
+	"Is_Found_Functions.h"
+	"Symbol_Table.h"
+	"Literal_Table.h"
+
+1545087678 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\set_data_in_vector_physically.h
+	<string>
+	<vector>
+	"Chek_if_Dec.H"
+	"instruction_find.h"
+	"Symbol_Table.h"
+
+1545088754 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\extend_logic_litera_or_equ_base.h
+	<string>
+	<vector>
+	"Literal_Adder_Loc_Counter.h"
+	"instruction_find.h"
+	"Is_Found_Functions.h"
+	"Expression_Calculator.h"
+	"Symbol_Table.h"
+	"Literal_Table.h"
+
+1545118453 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\is_found_functions.cpp
+	"Is_Found_Functions.h"
+
+1545088779 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\extend_logic_litera_or_equ_base.cpp
+	"Extend_Logic_litera_or_equ_base.h"
+
+1545085026 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\symbol_table.cpp
+
+1545088828 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\literal_adder_loc_counter.cpp
+	"Literal_Adder_Loc_Counter.h"
+
+1545087566 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\input_data_in_vector_logic_only.cpp
+	"Input_Data_In_Vector_Logic_Only.h"
+
+1545088534 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\pass1.cpp
+	"pass1.h"
+
+1545087695 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\set_data_in_vector_physically.cpp
+	"Set_Data_In_Vector_Physically.h"
+
+1545117254 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\scan.cpp
+	"scan.h"
+
+1545086511 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\symbol_table.h
+
+1545085519 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\testoooo.h
+	<string>
+	<vector>
+	"Symbol_Table.h"
+	<iostream>
+
+1545085486 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\testoooo.cpp
+	"testoooo.h"
+
+1545085798 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\literal_table.h
+
+1545119695 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\formate_two_register_values.cpp
+	"formate_two_register_values.h"
+
+1545094899 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\formate_two_register_values.h
+	<string>
+
+1545119829 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\object_code_creator.cpp
+	"Object_code_creator.h"
+
+1545116724 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\object_code_creator.h
+	<string>
+	"instruction_find.h"
+	"formate_two_register_values.h"
+	"hex_indirect_addressing_changer.h"
+	"Object_code_flags.h"
+	"Is_Found_Functions.h"
+
+1545105524 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\object_code_flags.h
+	<string>
+	<iostream>
+	"instruction_find.h"
+
+1545115456 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\object_code_flags.cpp
+	"Object_code_flags.h"
+
+1545119829 source:c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\pass2.cpp
+	"pass2.h"
+
+1545116792 c:\users\a_l_s_o\desktop\sic project\sic 18-11-29 - after sicxe pass 1\pass2.h
+	<string>
+	<vector>
+	"Object_code_creator.h"
+	"Symbol_Table.h"
+	"Literal_Table.h"
+
